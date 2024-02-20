@@ -37,17 +37,17 @@ function NavigationBar() {
        className={`w-full block flex-grow lg:flex lg:items-center lg:w-auto ${isOpen ? "block" : "hidden"}`}
      >
        <div className="text-sm lg:flex-grow">
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-           First Link
+         <a href="/demos" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
+           Demos
          </a>
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-           Second Link
+         <a href="/pages" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
+           Pages
          </a>
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-           Third Link
+         <a href="/support" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
+           Support
          </a>
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-           Fourth Link
+         <a href="/contact" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
+          Contact
          </a>
        </div>
        <div>

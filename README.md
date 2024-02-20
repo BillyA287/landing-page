@@ -1,3 +1,11 @@
+## App info 
+
+based on the design - https://www.figma.com/file/fKLXCi65Tr37t47xq6vUcU/Brainwave.io---Landing-Page-UI-Kit---Saas-Landing-Page---Creative-App-Landing-Page-(Community)?type=design&node-id=0-3346&mode=design&t=iTC8l4JO40zDKd0c-0
+
+I have created this page as close to the figma design I have made the page responsive also. due to the 1 hour time constraint I have not been able to fix spacing everywhere on the page and include a border top line at the bottom of the page. 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

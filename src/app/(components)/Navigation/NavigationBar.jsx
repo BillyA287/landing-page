@@ -4,7 +4,7 @@ function NavigationBar() {
  const [isOpen, setIsOpen] = useState(false);
 
  return (
-  <div className='nav-container sm:justify-between flex md:flex flex-row md:justify-around items-center md:p-2 '>
+  <div className='nav-container flex md:flex flex-row md:justify-around items-center md:p-2  sm:justify-between '>
 <h1><strong>Brainwave.io</strong></h1>
 
    <nav className="flex items-center justify-around flex-wrap p-2">
